@@ -9,5 +9,4 @@ data_source:
 split_data:
    train_path: data/processed/train_mushrooms.csv
    test_path: data/processed/test_mushrooms.csv
-   test_size: 0.3
-   
+   text_size: 0.3

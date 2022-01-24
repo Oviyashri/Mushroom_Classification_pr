@@ -1,1 +1,2 @@
 2022-01-24/18:46:36		Data was read successfully
+2022-01-24/21:36:12		Data split was successful
