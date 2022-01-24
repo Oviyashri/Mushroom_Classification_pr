@@ -1,0 +1,13 @@
+base:
+  project: Mushroom_Classification
+  random_state: 42
+  target_col: class
+
+data_source:
+  source: data_given/mushrooms.csv
+
+split_data:
+   train_path: data/processed/train_mushrooms.csv
+   test_path: data/processed/test_mushrooms.csv
+   test_size: 0.3
+   
