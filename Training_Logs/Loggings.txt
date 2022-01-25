@@ -6,3 +6,6 @@
 2022-01-25/15:54:24		Label encoding was successful for test data
 2022-01-25/16:49:34		Label encoding was successful for train data
 2022-01-25/16:49:34		Label encoding was successful for test data
+2022-01-25/18:11:22		Model is trained
+2022-01-25/18:11:23		Classification report done
+2022-01-25/18:11:24		model.pkl is saved successfully
