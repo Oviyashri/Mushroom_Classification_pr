@@ -10,3 +10,7 @@ split_data:
    train_path: data/processed/train_mushrooms.csv
    test_path: data/processed/test_mushrooms.csv
    text_size: 0.3
+
+encoder:
+   train_path: data/encoder/train_encoded_mushrooms.csv
+   test_path: data/encoder/test_encoded_mushrooms.csv

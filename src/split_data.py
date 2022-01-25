@@ -29,6 +29,7 @@ def split_data(config_path):
         logger_object.log(file_object,'Data split was successful')
     
     except Exception as e:
+        logger_object.log(file_object,'Exception occurred in split_data. Exception message: '+str(e))
         logger_object.log(file_object,'Data split was unsuccessful')
         raise Exception()
 
