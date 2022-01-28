@@ -21,5 +21,7 @@ estimator:
       cache_size: 200
       degree: 3
 
+model_dir: models
+
 metrics:
   report: reports/reports.csv
