@@ -1,0 +1,49 @@
+schema: '2.0'
+stages:
+  get_data:
+    cmd: python src/get_data.py --config=params.yaml
+    deps:
+    - path: data_given/mushrooms.csv
+      md5: 20e36f0bcc0fec359eb394ee947237dd
+      size: 374003
+    - path: src/get_data.py
+      md5: 210d2f400813c31de705cfe765ad65de
+      size: 998
+    - path: src/split_data.py
+      md5: ede51216e29428a94f0a05508011f7be
+      size: 1475
+  split_data:
+    cmd: python src/split_data.py --config=params.yaml
+    deps:
+    - path: data_given/mushrooms.csv
+      md5: 20e36f0bcc0fec359eb394ee947237dd
+      size: 374003
+    - path: src/split_data.py
+      md5: ede51216e29428a94f0a05508011f7be
+      size: 1475
+    outs:
+    - path: data/processed/test_mushrooms.csv
+      md5: 82ab1901f6cd211bdb4cda560c7326af
+      size: 114887
+    - path: data/processed/train_mushrooms.csv
+      md5: ad4806873048377e171c3bd7909b9d49
+      size: 267543
+  data_preprocess:
+    cmd: python src/data_preprocess.py --config=params.yaml
+    deps:
+    - path: data/processed/test_mushrooms.csv
+      md5: 82ab1901f6cd211bdb4cda560c7326af
+      size: 114887
+    - path: data/processed/train_mushrooms.csv
+      md5: ad4806873048377e171c3bd7909b9d49
+      size: 267543
+    - path: src/data_preprocess.py
+      md5: d6e3b1b86bfe1bf0a4bab032e8bd9190
+      size: 1848
+    outs:
+    - path: data/encoder/test_encoded_mushrooms.csv
+      md5: 8f85a3132241ea227fa991527fd89e28
+      size: 115248
+    - path: data/encoder/train_encoded_mushrooms.csv
+      md5: 0304f596e7485307f48f4522e1cca57b
+      size: 268470

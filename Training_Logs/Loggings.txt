@@ -9,3 +9,11 @@
 2022-01-25/18:11:22		Model is trained
 2022-01-25/18:11:23		Classification report done
 2022-01-25/18:11:24		model.pkl is saved successfully
+2022-01-31/21:11:19		Data was read successfully
+2022-01-31/21:27:36		Data was read successfully
+2022-01-31/21:48:36		Data split was successful
+2022-02-01/16:35:10		Label encoding was successful for train data
+2022-02-01/16:35:11		Label encoding was successful for test data
+2022-02-01/16:52:54		Model is trained
+2022-02-01/16:52:55		Classification report done
+2022-02-01/16:52:55		model.pkl is saved successfully

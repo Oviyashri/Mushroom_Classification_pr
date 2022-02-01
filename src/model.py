@@ -3,6 +3,7 @@ import argparse
 import joblib
 import yaml
 from sklearn.svm import SVC
+from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 from logger import App_Logger
 

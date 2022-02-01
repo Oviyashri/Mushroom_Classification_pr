@@ -1,3 +1,4 @@
+import os
 import yaml
 import pandas as pd
 import argparse
@@ -23,6 +24,7 @@ def get_data(config_path):
        logger_object.log(file_object,'Exception occurred in get_data. Exception message: '+str(e))
        logger_object.log(file_object,'get_data unsuccessful')
        raise Exception()
+    return df 
 
 if __name__ =="__main__":
     args = argparse.ArgumentParser()

@@ -18,7 +18,7 @@ def split_data(config_path):
     train_data_path=config["split_data"]["train_path"]
     test_data_path=config["split_data"]["test_path"]
     source_data_path=config["data_source"]["source"]
-    split_ratio=config["split_data"]["text_size"]
+    split_ratio=config["split_data"]["test_size"]
     random_state=config["base"]["random_state"]
 
     try:
