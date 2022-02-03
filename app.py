@@ -9,7 +9,7 @@ def main():
 
     html_temp= """
     <div style="background-color:Blanchedalmond;padding:15px">
-    <h2 style="color:black;text-align:center;">Are your mushrooms edible or not? Find out now!..</h2>
+    <h2 style="color:black;text-align:center;">Are your mushrooms edible or not? Find now!..</h2>
     </div>
     """
     st.markdown(html_temp,unsafe_allow_html=True)
