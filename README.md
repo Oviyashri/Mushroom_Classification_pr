@@ -16,23 +16,23 @@ URL: https://www.kaggle.com/uciml/mushroom-classification
 
 ## High Level Design 
 
-URL:
+URL: https://drive.google.com/file/d/1ycIXy5C-phpsdnSUPOVa5reipHLX8DMQ/view?usp=sharing
 
 ## Low Level Design
 
-URL:
+URL: https://drive.google.com/file/d/1ycIXy5C-phpsdnSUPOVa5reipHLX8DMQ/view?usp=sharing
 
 ## Architecture
 
-URL:
+URL: https://drive.google.com/file/d/1Oq0VZPdqubsr58CTklx0kEDOorl1Zyz-/view?usp=sharing
 
 ## Detailed Project Report
 
-URL:
+URL: https://drive.google.com/file/d/1pJ0TXhnTd1oTUK2I3f6lABgLDJtVLCaL/view?usp=sharing
 
 ## Wireframe
 
-URL:
+URL: https://drive.google.com/file/d/1sHfHHWeXKSWucoBYrOdSry9mrsCCwNFd/view?usp=sharing
 
 ## Demo Video
 
