@@ -20,7 +20,7 @@ URL: https://drive.google.com/file/d/1ycIXy5C-phpsdnSUPOVa5reipHLX8DMQ/view?usp=
 
 ## Low Level Design
 
-URL: https://drive.google.com/file/d/1ycIXy5C-phpsdnSUPOVa5reipHLX8DMQ/view?usp=sharing
+URL: https://drive.google.com/file/d/1KI-HObtzjQ3b_nT0cQLGUG9RBycaNC2O/view?usp=sharing
 
 ## Architecture
 
