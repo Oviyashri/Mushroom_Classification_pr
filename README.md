@@ -9,8 +9,14 @@ URL: https://www.kaggle.com/uciml/mushroom-classification
 ## Approach
 
 ## Web Deployment
+Mushroom Classification Web App: https://mushrooms-prediction-api.herokuapp.com
 
 ## Screenshots
+## UI:
+![1](https://user-images.githubusercontent.com/92749977/155966428-2f76d818-175b-46c4-8076-4e86e0ac0499.jpg)
+
+## Prediction
+
 
 ## Project Documents
 
