@@ -12,30 +12,39 @@ URL: https://www.kaggle.com/uciml/mushroom-classification
 We will be using Mushroom Prediction Data Set present in Kaggle  Repository. This Data set is satisfying our data requirement. Total 8120 instances present in different batches of data. 
 
 **Data Splitting:**
+
 We split the data here for our train and test data for further uses.
 
 **Data Preprocessing:**
+
 We will be exploring our data set here and perform data preprocessing depending on the data set. We first explore our data set in Jupyter Notebook and decide what pre-processing and validation we have to convert all those to numerical values by label encoding and then we have to write separate modules according to our analysis, so that we can implement that for training as well as prediction data.
 	
 **Model Training:**
+
 We trained various model in our notebook and SVC was good on it. We trained with our processed data.
 
 **Model Evaluation:**
+
 Model evaluation done by classification and report was saved.
 
 **Model Saving:**
+
 We will save our models so that we can use them for prediction purpose. 
 
 **Push to app:**
+
 Here we will do cloud setup for model deployment. We also create our streamlit app and user interface and integrate our model with streamlit app and UI.
 
 **Data from client side for prediction purpose:**
+
 Now our application on cloud is ready for doing prediction. The prediction data which we receive from client side. 
 
 **Data processing:**
+
 Client data will also go along the same process Data pre-processing and according to that we will predict those data.
 
 **Export Prediction to CSV:**
+
 Finally when we get all the prediction for client data, then our final task is to export prediction to csv file and hand over it to client. 
 
 ## Web Deployment
