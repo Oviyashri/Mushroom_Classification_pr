@@ -61,27 +61,25 @@ Mushroom Classification Web App: https://mushrooms-prediction-api.herokuapp.com
 
 ## High Level Design 
 
-URL: https://drive.google.com/file/d/1ycIXy5C-phpsdnSUPOVa5reipHLX8DMQ/view?usp=sharing
+URL: https://github.com/Oviyashri/Mushroom_Classification_pr/blob/main/docs/HLD.pdf
 
 ## Low Level Design
 
-URL: https://drive.google.com/file/d/1KI-HObtzjQ3b_nT0cQLGUG9RBycaNC2O/view?usp=sharing
+URL: https://github.com/Oviyashri/Mushroom_Classification_pr/blob/main/docs/LLD.pdf
 
 ## Architecture
 
-URL: https://drive.google.com/file/d/1Oq0VZPdqubsr58CTklx0kEDOorl1Zyz-/view?usp=sharing
+URL: https://github.com/Oviyashri/Mushroom_Classification_pr/blob/main/docs/Architecture.pdf
 
 ## Detailed Project Report
 
-URL: https://drive.google.com/file/d/1pJ0TXhnTd1oTUK2I3f6lABgLDJtVLCaL/view?usp=sharing
+URL: https://github.com/Oviyashri/Mushroom_Classification_pr/blob/main/docs/DPR.pdf
 
 ## Wireframe
 
-URL: https://drive.google.com/file/d/1sHfHHWeXKSWucoBYrOdSry9mrsCCwNFd/view?usp=sharing
+URL: https://github.com/Oviyashri/Mushroom_Classification_pr/blob/main/docs/Wireframe.pdf
 
 ## Demo Video
-
-URL: https://drive.google.com/file/d/1kS3CS4udq70z_7JobRU6cR1LvMhLgTUD/view?usp=sharing
 
 https://user-images.githubusercontent.com/92749977/156380212-d77ac684-46a1-4102-9f5e-8f6b91f91812.mp4
 
