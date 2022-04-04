@@ -48,7 +48,7 @@ Client data will also go along the same process Data pre-processing and accordin
 Finally when we get all the prediction for client data, then our final task is to export prediction to csv file and hand over it to client. 
 
 ## Web Deployment
-Mushroom Classification Web App: https://mushrooms-prediction-api.herokuapp.com
+Mushroom Classification Web App: https://share.streamlit.io//oviyashri/mushroom_classification_pr/main/app.py
 
 ## Screenshots
 ## UI:
